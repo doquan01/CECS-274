@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae9fb39e-3771-4d18-82d9-1878b44c0921" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X38Knk2GAPbnpQu7zqBRMEWUBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Marathon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Marathon" />
+      <module name="Marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Marathon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae9fb39e-3771-4d18-82d9-1878b44c0921" name="Default Changelist" comment="" />
+      <created>1580263355704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580263355704</updated>
+      <workItem from="1580263358787" duration="3277000" />
+      <workItem from="1580267654154" duration="301000" />
+      <workItem from="1580435960228" duration="3524000" />
+      <workItem from="1580538982099" duration="2714000" />
+      <workItem from="1580626758256" duration="1775000" />
+      <workItem from="1580632162156" duration="6912000" />
+      <workItem from="1580710873684" duration="2975000" />
+      <workItem from="1580786128132" duration="323000" />
+      <workItem from="1580787117654" duration="4715000" />
+      <workItem from="1580795323287" duration="1107000" />
+      <workItem from="1580801875695" duration="683000" />
+      <workItem from="1580832352846" duration="1776000" />
+      <workItem from="1580835032649" duration="65000" />
+      <workItem from="1580838731555" duration="3000" />
+      <workItem from="1580864504101" duration="4472000" />
+      <workItem from="1580885239143" duration="516000" />
+      <workItem from="1580890973973" duration="700000" />
+      <workItem from="1580892158897" duration="12000" />
+      <workItem from="1580971981178" duration="455000" />
+      <workItem from="1581037735030" duration="3000" />
+      <workItem from="1581041147068" duration="293000" />
+      <workItem from="1581237307085" duration="299000" />
+      <workItem from="1581438527265" duration="16000" />
+      <workItem from="1581448941058" duration="546000" />
+      <workItem from="1581472692253" duration="1411000" />
+      <workItem from="1581572183074" duration="45000" />
+      <workItem from="1586476536069" duration="83000" />
+      <workItem from="1588711286976" duration="627000" />
+      <workItem from="1599027784380" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586476570655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586476570655" />
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1581474255937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581474255937" />
+    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1581474255937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581474255937" />
+    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1581474255937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581474255937" />
+    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1581474255937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581474255937" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581572198081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581572198081" />
+    <state x="209" y="34" key="new project wizard" timestamp="1581572226038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581572226038" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580627882965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580627882965" />
+  </component>
+</project>
